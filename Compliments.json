@@ -1,0 +1,19 @@
+{
+    "anytime" : ["Hola Caracola"],
+    "day_sunny" : ["Soleado, Llevate las Gafas!"],
+    "day_cloudy" : ["Parcialmente Nublado :-("],
+    "cloudy" : ["Nublado :-("],
+    "cloudy_windy" : ["Vientecito"],
+    "showers" : ["Llevate el paraguas!"],
+    "rain" : ["Llevate el paraguas!"],
+    "thunderstorm" : ["Llevate el paraguas!!"],
+    "snow" : ["Nieve!! No salgas de casa!!"],
+    "fog" : ["Niebla"],
+    "night_clear" : ["Despejado"],
+    "night_cloudy" : ["Nublado"],
+    "night_showers" : ["Llevate el paraguas"],
+    "night_rain" : ["Llevate el paraguas"],
+    "night_thunderstorm" : ["Llevate el paraguas"],
+    "night_snow" : ["Nieve!! No salgas!"],
+    "night_alt_cloudy_windy" : ["Viento!!"]
+}
